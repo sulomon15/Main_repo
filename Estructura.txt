@@ -1,4 +1,4 @@
-telecom-operator-efficiency-analysis/
+Main_repo/
 │
 ├── README.md
 ├── requirements.txt
