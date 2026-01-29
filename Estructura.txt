@@ -1,0 +1,21 @@
+telecom-operator-efficiency-analysis/
+│
+├── README.md
+├── requirements.txt
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   └── telecom_operator_analysis.ipynb
+│
+├── src/
+│   ├── preprocessing.py
+│   ├── feature_engineering.py
+│   ├── scoring.py
+│   └── utils.py
+│
+├── reports/
+│   └── resumen_ejecutivo.pdf
+│
+└── .gitignore
