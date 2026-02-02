@@ -1,40 +1,36 @@
-# Telecom Operator Efficiency Analysis
-Identificación de operadores ineficientes en telecomunicaciones mediante análisis de datos, métricas de negocio y validación estadística.
-## Contexto de Negocio
-Las operaciones de telecomunicaciones dependen directamente del desempeño de los operadores para garantizar calidad en el servicio, eficiencia operativa y satisfacción del cliente.
-Comportamientos ineficientes pueden generar mayores tiempos de respuesta, baja conversión y aumento de costos operativos.
+# Portafolio de Proyectos — Data Analysis
 
-### Objetivo del proyecto:
-Identificar operadores ineficientes mediante análisis exploratorio de datos, ingeniería de características y pruebas estadísticas, transformando datos operativos crudos en insights accionables para la toma de decisiones.
+Soy analista de datos con experiencia en Python, análisis exploratorio, modelado predictivo
+y visualización de datos. Este repositorio aloja un par proyectos que demuestran
+habilidades aplicadas en problemas reales.
 
-## Preguntas Clave del Análisis
-¿Qué operadores presentan bajo nivel de actividad de forma consistente?
+## Proyectos incluidos
 
-¿Qué métricas influyen más en la ineficiencia operativa?
+### 1. Telecom Operator Efficiency
+- Análisis para identificar operadores ineficientes.
+- Técnicas: EDA, pruebas estadísticas, feature engineering.
+- Resultados: métricas de eficiencia y segmentación.
+- Link: `telecom_operator_efficiency/`
 
-¿Existen diferencias estadísticamente significativas entre operadores eficientes e ineficientes?
+### 2. Churn Prediction (Clientes de Gimnasio)
+- Modelado predictivo para detectar clientes con riesgo de abandono.
+- Técnicas: Regresión Logística, Random Forest, métricas y segmentación.
+- Link: `churn_prediction/`
 
-¿Es posible cuantificar la ineficiencia en un solo indicador?
-## Metodología
-1. Calidad y Preparación de Datos
-Identificación y eliminación de duplicados
+## Tecnologías utilizadas
+- Python (Pandas, scikit-learn, NumPy)
+- Jupyter Notebooks
+- Visualización (Matplotlib, Seaborn)
+- Estadística inferencial
 
-Análisis y tratamiento de valores nulos
+## Cómo clonar / reproducir
 
-Normalización de variables temporales
+```bash
+git clone https://github.com/sulomon15/Main_repo.git
+cd Main_repo
 
-Validación de consistencia de datos
 
-2. Análisis Exploratorio de Datos (EDA)
-Distribución de actividad por operador
-
-Patrones de interacción de usuarios
-
-Análisis temporal de desempeño
-
-Correlación entre métricas clave
-
-3. Ingeniería de Características
+### 3. Ingeniería de Características
 Indicadores de baja actividad
 
 Métricas de carga y desbalance operativo
@@ -43,10 +39,10 @@ Variables relacionadas con conversión
 
 Agregaciones a nivel operador
 
-4. Modelo de Puntaje de Ineficiencia
+### 4. Modelo de Puntaje de Ineficiencia
 Se construyó un Inefficiency Score combinando múltiples métricas normalizadas relacionadas con el comportamiento y desempeño de cada operador.
 
-5. Validación Estadística
+### 5. Validación Estadística
 Pruebas de hipótesis (tests no paramétricos)
 
 Análisis de correlación
