@@ -1,5 +1,5 @@
-Python
 Pandas
-NumPy
+Seaborn
 Scikit-learn
-Matplotlib / Seaborn
+Matplotlib
+Scipy
