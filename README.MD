@@ -1,6 +1,6 @@
 # Telecom Operator Efficiency Analysis
 Identificación de operadores ineficientes en telecomunicaciones mediante análisis de datos, métricas de negocio y validación estadística.
-## Contexto de Negocio (Enfoque Data Analyst)
+## Contexto de Negocio
 Las operaciones de telecomunicaciones dependen directamente del desempeño de los operadores para garantizar calidad en el servicio, eficiencia operativa y satisfacción del cliente.
 Comportamientos ineficientes pueden generar mayores tiempos de respuesta, baja conversión y aumento de costos operativos.
 
