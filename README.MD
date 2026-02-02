@@ -6,7 +6,8 @@ Comportamientos ineficientes pueden generar mayores tiempos de respuesta, baja c
 
 ### Objetivo del proyecto:
 Identificar operadores ineficientes mediante análisis exploratorio de datos, ingeniería de características y pruebas estadísticas, transformando datos operativos crudos en insights accionables para la toma de decisiones.
-##Preguntas Clave del Análisis
+
+## Preguntas Clave del Análisis
 ¿Qué operadores presentan bajo nivel de actividad de forma consistente?
 
 ¿Qué métricas influyen más en la ineficiencia operativa?
